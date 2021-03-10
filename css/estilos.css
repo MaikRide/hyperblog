@@ -1,6 +1,45 @@
 body
 {
-    color: deeppink;
+    color: #333;
     text-align: center;
     font-family: "Arial";
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    font-family: "Arial";
+    border: 1px solid;
+    margin: 0 auto;
+}
+#container h1
+{
+
+    text-align: center;
+    color:deepskyblue;
+    font-size: 30px;
+}
+#container p
+{
+    color:firebrick;
+    font-size: 25px;
+}
+#container2
+{   
+    width:70%;
+    padding: 1em;
+    border: 1px solid;
+    margin:0 auto;
+}
+#container2 h2
+{
+    color: deepskyblue;
+    text-align:center;
+    font-size: 30px;
+}
+#container2 p1
+{
+    color:green;
+    font-size: 25px;
 }
