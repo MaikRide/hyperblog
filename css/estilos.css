@@ -55,3 +55,10 @@ body
     color:green;
     font-size: 25px;
 }
+#footer
+{
+    background: cadetblue;
+    color:  whitesmoke;
+    text-align: center;
+    padding: 0.5em;
+}
