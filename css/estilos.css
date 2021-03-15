@@ -49,4 +49,24 @@ body
 {
     background: white;
     padding: 1em;
+    border: 1px solid;
+    margin:0 auto;
+}
+#container2 h2
+{
+    color: deepskyblue;
+    text-align:center;
+    font-size: 30px;
+}
+#container2 p1
+{
+    color:green;
+    font-size: 25px;
+}
+#footer
+{
+    background: cadetblue;
+    color:  whitesmoke;
+    text-align: center;
+    padding: 0.5em;
 }
